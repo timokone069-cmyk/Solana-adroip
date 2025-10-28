@@ -9,6 +9,6 @@ Ce projet est une application décentralisée utilisant la blockchain Solana. Il
 - Autres dépendances nécessaires
 
 ## Installation
-1. Clonez le dépôt :
+1. Clonez le dépôt :9HXQdKXXFLxt7FTuWYBv5mXWj2mX3kWFbkPEYuC1dh4u
    ```bash
-   git clone [URL du dépôt]
+   git clone []9HXQdKXXFLxt7FTuWYBv5mXWj2mX3kWFbkPEYuC1dh4u
